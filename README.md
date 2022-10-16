@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @emmholcc
 - 👀 I’m interested in everything! 
-- 🌱 I’m currently learning HTML, Git, & CSS
-- 💞️ I’m looking to collaborate on anything!
+- 🌱 I’m currently learning HTML & CSS
+- 💞️ I’m looking to learn about coding and tech in anyway and all feedback/ advice is welcome!
 - 📫 How to reach me emmholcommb@gmail.com
 
 <!---
